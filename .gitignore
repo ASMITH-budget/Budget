@@ -8,5 +8,7 @@ Core/bin/
 Core/obj/
 BudgetMssql/bin/
 BudgetMssql/obj/
+XUnitTestCore/bin/
+XUnitTestCore/obj/
 *.csproj
 *.sln
