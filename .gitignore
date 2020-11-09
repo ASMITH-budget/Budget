@@ -8,6 +8,7 @@ Core/bin/
 Core/obj/
 BudgetMssql/bin/
 BudgetMssql/obj/
+BudgetMssql/appsettings.json
 XUnitTestCore/bin/
 XUnitTestCore/obj/
 *.csproj
