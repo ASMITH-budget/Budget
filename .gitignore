@@ -1,7 +1,7 @@
 .vs/
 Budget/.vs/
-Budget/.bin/
-Budget/.obj/
+Budget/bin/
+Budget/obj/
 .vscode/
 Console/
 Core/bin/
