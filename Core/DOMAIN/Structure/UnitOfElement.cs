@@ -8,7 +8,7 @@ namespace Budget.Core
     public delegate void UnitOfElementEventHandler<T>(object sender, UnitOfElementEventArgs eventArgs) where T : UnitOfElementEventArgs;
     public delegate void UnitOfElementNotValidEventHandler<T>(object sender, UnitOfElementEventArgs eventArgs) where T : UnitOfElementEventArgs;
     /// <summary>
-    /// Unit object is mesurenment of element. 
+    /// Единица измерения 
     /// </summary>
     public class UnitOfElement : Entity
     {
