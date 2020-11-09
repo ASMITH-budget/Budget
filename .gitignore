@@ -8,6 +8,5 @@ Core/bin/
 Core/obj/
 BudgetMssql/bin/
 BudgetMssql/obj/
-BudgetMssql/appsettings.json
 *.csproj
 *.sln
