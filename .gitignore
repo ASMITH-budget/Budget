@@ -1,3 +1,7 @@
+.vs/
+Budget/.vs/
+Budget/.bin/
+Budget/.oj/
 .vscode/
 Console/
 Core/bin/
@@ -6,3 +10,4 @@ BudgetMssql/bin/
 BudgetMssql/obj/
 BudgetMssql/appsettings.json
 *.csproj
+*.sln
